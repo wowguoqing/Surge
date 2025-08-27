@@ -3,8 +3,8 @@
 <h4 align="center">我自用的Surge配置文件 </h4>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/1.PNG" width="300"></img>
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/2.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/wowguoqing/Surge/Master/Conf/img/1.PNG" width="300"></img>
+<img src="https://raw.githubusercontent.com/wowguoqing/Surge/Master/Conf/img/2.PNG" width="300"></img>
 </p>
 
 ## 特点
@@ -23,24 +23,24 @@ Surge最低支持版本 :<br>
 >**macOS 版 5.8.1（2929） 或更新版本**<br>
 ### 2. 配置文件链接
 **开发者推荐最小配置**<br>
-> **Developer :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-Developer.conf<br>
+> **Developer :** https://raw.githubusercontent.com/wowguoqing/Surge/Master/Conf/Spec/Surge-Developer.conf<br>
 
 **适合 Surge 5 卡片视图**<br>
-> **完整版（英文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-EN.conf<br>
+> **完整版（英文） :** https://raw.githubusercontent.com/wowguoqing/Surge/Master/Conf/Spec/Surge-EN.conf<br>
 
-> **轻量版（英文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-Lite-EN.conf<br>
+> **轻量版（英文） :** https://raw.githubusercontent.com/wowguoqing/Surge/Master/Conf/Spec/Surge-Lite-EN.conf<br>
 
-> **迷你版（英文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-Mini.conf<br>
+> **迷你版（英文） :** https://raw.githubusercontent.com/wowguoqing/Surge/Master/Conf/Spec/Surge-Mini.conf<br>
 
-> **完整版（中文） :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge-CN.conf<br>
+> **完整版（中文） :** https://raw.githubusercontent.com/wowguoqing/Surge/Master/Conf/Spec/Surge-CN.conf<br>
 
 **适合 Surge 5 列表视图**<br>
-> **完整版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Surge.conf<br>
+> **完整版 :** https://raw.githubusercontent.com/wowguoqing/Surge/Master/Conf/Spec/Surge.conf<br>
 
-> **轻量版 :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/Spec/Lite.conf<br>
+> **轻量版 :** https://raw.githubusercontent.com/wowguoqing/Surge/Master/Conf/Spec/Lite.conf<br>
 
 **适配两个机场订阅**<br>
-> **Family :** https://raw.githubusercontent.com/Rabbit-Spec/Surge/refs/heads/Master/Conf/Spec/Surge-Family.conf<br>
+> **Family :** https://raw.githubusercontent.com/wowguoqing/Surge/refs/heads/Master/Conf/Spec/Surge-Family.conf<br>
 
 **广告拦截模块**<br>
 > **Block ads :** https://raw.githubusercontent.com/thNylHx/Tools/refs/heads/main/Surge/Module/Blockads.sgmodule<br>
@@ -49,7 +49,7 @@ Surge最低支持版本 :<br>
 复制配置链接 -> 打开 Surge -> 从URL下载配置 -> 粘贴链接 -> 在文本模式中编辑 -> 修改“外部节点”的对应参数 -> 完成!
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/Rabbit-Spec/Surge/Master/Conf/img/7.PNG" width="600"></img>
+<img src="https://raw.githubusercontent.com/wowguoqing/Surge/Master/Conf/img/7.PNG" width="600"></img>
 </p>
 
 ## 注意事項
